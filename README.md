@@ -1,1 +1,1 @@
-Here, commands for bash scripts can be found
+Updated during Shell redirections
